@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Soy Francisco Alfredo Sabena, me formé como Data Scientist en Acámica. También me he formado como Bachiller en ciencias aplicadas en la Universidad Nacional de Córdoba y actualmente me encuentro cursando los últimos años de Ingeniería Industrial.
+I am Francisco Alfredo Sabena. I trained as a Data Scientist at Acámica. I also obtained a Bachelor's degree in Applied Sciences from the National University of Córdoba, and I am currently in the final years of my Industrial Engineering degree.
 
-Soy un apasionado de la ciencia y la tecnología y me encanta aprender cosas nuevas.
+I am passionate about science and technology, and I enjoy learning new things.
 
-Amo los deportes, son mi cable a tierra. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
+I love sports as they provide me with a sense of grounding. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
 
 <!-- TECH STACK -->
 <h2>
