@@ -24,6 +24,7 @@ I love sports as they provide me with a sense of grounding. 🏋🏻🏋🏻🚴
   <a href="https://www.docker.com/" target="_blank"><img src=https://img.shields.io/badge/Docker-111112?&style=flat-square&logo=docker&logoColor=2496ED alt=docker height=27px/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src=https://img.shields.io/badge/FastAPI-111112?&style=flat-square&logo=fastapi&logoColor=009688 alt=fastapi height=27px/></a>
   <a href="https://hadoop.apache.org/" target="_blank"><img src=https://img.shields.io/badge/Hadoop-111112?&style=flat-square&logo=apachehadoop&logoColor=66CCFF alt=hadoop height=27px/></a>
+  <a href="https://www.microstrategy.com/" target="_blank"><img src="https://img.shields.io/badge/MicroStrategy-111112?&style=flat-square&logo=microstrategy" alt="MicroStrategy" height="27px"></a>
   <a href="https://powerbi.microsoft.com/es/" target="_blank"><img src=https://img.shields.io/badge/PowerBI-111112?&style=flat-square&logo=powerbi&logoColor=F2C811 alt=powerbi height=27px/></a>
   <a href="https://www.tableau.com/" target="_blank"><img src=https://img.shields.io/badge/Tableau-111112?&style=flat-square&logo=tableau&logoColor=E97627 alt=tableau height=27px/></a>
   <a href="https://streamlit.io/" target="_blank"><img src=https://img.shields.io/badge/Streamlit-111112?&style=flat-square&logo=streamlit&logoColor=FF4B4B alt=streamlit height=27px/></a>
