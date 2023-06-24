@@ -28,13 +28,9 @@ Amo los deportes, son mi cable a tierra. 🏋🏻🏋🏻🚴🏽🏊🏼🏉�
   <a href="https://www.tableau.com/" target="_blank"><img src=https://img.shields.io/badge/Tableau-111112?&style=flat-square&logo=tableau&logoColor=E97627 alt=tableau height=27px/></a>
   <a href="https://streamlit.io/" target="_blank"><img src=https://img.shields.io/badge/Streamlit-111112?&style=flat-square&logo=streamlit&logoColor=FF4B4B alt=streamlit height=27px/></a>
   <a href="https://azure.microsoft.com" target="_blank"><img src=https://img.shields.io/badge/Azure-111112?&style=flat-square&logo=microsoftazure&logoColor=0078D4 alt=azure height=27px/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src=https://img.shields.io/badge/HTML-111112?&style=flat-square&logo=html5&logoColor=E34F26 alt=html height=27px/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src=https://img.shields.io/badge/CSS-111112?&style=flat-square&logo=css3&logoColor=1572B6 alt=css height=27px/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src=https://img.shields.io/badge/JavaScript-111112?&style=flat-square&logo=javascript&logoColor=F7DF1E alt=javascript height=27px/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src=https://img.shields.io/badge/VSCode-111112?&style=flat-square&logo=visualstudiocode&logoColor=007ACC alt=visualstudiocode height=27px/></a>
   <a href="https://git-scm.com/" target="_blank"><img src=https://img.shields.io/badge/GIT-111112?&style=flat-square&logo=git&logoColor=F05032 alt=git height=27px/></a>
   <a href="https://markdown.es/" target="_blank"><img src=https://img.shields.io/badge/Markdown-111112?&style=flat-square&logo=markdown&logoColor=white alt=markdown height=27px/></a>
-  <a href="https://asana.com" target="_blank"><img src=https://img.shields.io/badge/Asana-111112?&style=flat-square&logo=asana&logoColor=F06A6A alt=asana height=27px/></a>
   <a href="https://slack.com" target="_blank"><img src=https://img.shields.io/badge/Slack-111112?&style=flat-square&logo=slack&logoColor=4A154B alt=slack height=27px/></a>
 </div>  
 <br>
@@ -67,6 +63,6 @@ Amo los deportes, son mi cable a tierra. 🏋🏻🏋🏻🚴🏽🏊🏼🏉�
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:alfre_sabena@hotmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook" style="margin-bottom: 5px;" />
   </a>
 </div>  
