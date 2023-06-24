@@ -16,7 +16,7 @@ I love sports as they provide me with a sense of grounding. 🏋🏻🏋🏻🚴
   <a href="https://jupyter.org/" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=jupyter height=27px/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src=https://img.shields.io/badge/Pandas-111112?&style=flat-square&logo=pandas&logoColor=150458 alt=pandas height=27px/></a>
   <a href="https://numpy.org/" target="_blank"><img src=https://img.shields.io/badge/Numpy-111112?&style=flat-square&logo=numpy&logoColor=013243 alt=numpy height=27px/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?&style=flat-square&logo=matplotlib" alt="Matplotlib" height="27px"></a>
+  <a href="https://matplotlib.org/" target="_blank" style="color: #ffffff;"><img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" height="27px" style="background-color: #111112; padding: 2px;"></a>
   <a href="https://seaborn.pydata.org/" target="_blank" style="color: #ffffff;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="27px" style="background-color: #111112; padding: 2px;"></a>
   <a href="https://plotly.com/" target="_blank"><img src=https://img.shields.io/badge/Plotly-111112?&style=flat-square&logo=plotly&logoColor=3F4F75 alt=plotly height=27px/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
