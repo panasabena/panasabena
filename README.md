@@ -46,7 +46,7 @@
 
 🎓 **Como Bachiller orientado en Ciencias Aplicadas de la UNC** y estudiante avanzado de Ingeniería Industrial, combino rigor académico con pasión por la tecnología.
 
-🌍 **I am passionate about science and technology**, and I enjoy learning new things. I love sports as they provide me with a sense of grounding. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
+🌍 **Soy aun apasionado por la ciencia y la tecnología**, disfruto aprender cosas nuevas. Amo los deportes, son mi cable a tierra. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
 
 </div>
 
@@ -157,15 +157,9 @@
 
 <div align="center">
 
-### 🎯 **Mis Habilidades en Datos**
+### 📊 **Habilidades**
 
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb" />
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly" />
-
-<img src="https://skillicons.dev/icons?i=scikit-learn,tensorflow,pytorch,jupyter" />
-
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,streamlit,docker,aws" />
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,tensorflow,pytorch,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
 
 </div>
 
@@ -342,22 +336,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 📈 **Actividad de Contribuciones**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=panasabena&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20Actividad%20en%20GitHub" alt="GitHub Activity Graph" />
-
-</div>
-
-
-<div align="center">
-
-### 📊 **Dashboard de Habilidades**
-
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,tensorflow,pytorch,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
-
-</div>
 
 
 <div align="center">
@@ -368,13 +346,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 📊 **Métricas Avanzadas**
-
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Métricas%20Avanzadas" alt="Advanced Stats" />
-
-</div>
 
 <div align="center">
 
@@ -408,18 +379,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 </td>
 </tr>
 </table>
-
-</div>
-
-
-<div align="center">
-
-### 🌟 **Tecnologías Favoritas**
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
 </div>
 
