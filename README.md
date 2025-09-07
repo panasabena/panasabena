@@ -364,17 +364,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 🎯 **Progreso de Aprendizaje**
-
-![Python](https://img.shields.io/badge/Python-90%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Data Science](https://img.shields.io/badge/Data%20Science-85%25-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-80%25-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-75%25-45B7D1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Visualization](https://img.shields.io/badge/Visualization-70%25-96CEB4?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
 
 <div align="center">
 
@@ -427,21 +416,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 📊 **Resumen de Actividad**
-
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Resumen%20de%20Actividad" alt="Activity Summary" />
-
-</div>
-
-<div align="center">
-
-### 🎨 **Tecnologías en Uso**
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
-
-</div>
 
 <div align="center">
 
@@ -454,13 +428,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 🎮 **GitHub Snake Game**
-
-<img src="https://raw.githubusercontent.com/panasabena/panasabena/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-
-</div>
 
 <div align="center">
 
