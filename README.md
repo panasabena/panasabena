@@ -224,7 +224,7 @@
 
 <div align="center">
 
-### 🧠 [Procesamiento_de_lenguaje_Natural](https://github.com/panasabena/Procesamiento_de_lenguaje_Natural)
+### 🧠 [Dashboard en Plotly](https://github.com/panasabena/Dashboard_Plotly)
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
