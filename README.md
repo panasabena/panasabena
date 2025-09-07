@@ -177,15 +177,6 @@
 
 </div>
 
-<div align="center">
-
-### 🏆 **Logros de GitHub**
-
-<img src="https://github-profile-trophy.vercel.app/?username=panasabena&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 <div align="center">
 
