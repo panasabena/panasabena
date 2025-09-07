@@ -180,7 +180,6 @@
 
 <div align="center">
 
-## 🚀 Proyectos Destacados
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -264,8 +263,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡No dudes en contactarme para colaborar en proyectos de datos!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡No dudes en contactarme para colaborar en proyectos de datos!</b></em> 
 </div>
 
 <div align="center">
@@ -288,13 +286,6 @@
 
 </div>
 
-<div align="center">
-
-### 🎯 **Mi Estado Actual**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analizando+datos+de+movilidad+urbana;Desarrollando+dashboards+interactivos;Estudiando+Machine+Learning+avanzado;Colaborando+en+proyectos+de+IA" alt="Current Status" />
-
-</div>
 
 <div align="center">
 
