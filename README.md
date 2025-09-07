@@ -2,7 +2,7 @@
 
 # 🚀 ¡Hola! Soy Alfredo Sabena 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Dashboard+Developer;Industrial+Engineering+%7C+IA;Transformo+datos+en+insights+accionables" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Dashboard+Developer;Industrial+Engineering+%7C+IA;Transformo+datos+en+insights+accionables" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -261,7 +261,7 @@
 Cuando no estoy analizando datasets, probablemente esté analizando estadísticas deportivas. ⚽📊
 
 ### 💡 **Frase Favorita:**
-*"Los datos no mienten, pero hay que saber preguntarles las preguntas correctas."* - Alfredo Sabena
+*"Los datos no mienten, pero hay que saber preguntarles las preguntas correctas."* 
 
 </div>
 
