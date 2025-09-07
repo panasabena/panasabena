@@ -203,17 +203,6 @@
 
 </div>
 
-<div align="center">
-
-### 📊 **Mi Progreso de Aprendizaje**
-
-<img src="https://progress-bar.dev/85/?title=Python" />
-<img src="https://progress-bar.dev/80/?title=Data+Science" />
-<img src="https://progress-bar.dev/75/?title=Machine+Learning" />
-<img src="https://progress-bar.dev/70/?title=SQL" />
-<img src="https://progress-bar.dev/65/?title=Visualization" />
-
-</div>
 
 <div align="center">
 
@@ -379,11 +368,11 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 ### 🎯 **Progreso de Aprendizaje**
 
-<img src="https://progress-bar.dev/90/?title=Python&width=300&color=00D4FF" />
-<img src="https://progress-bar.dev/85/?title=Data+Science&width=300&color=FF6B6B" />
-<img src="https://progress-bar.dev/80/?title=Machine+Learning&width=300&color=4ECDC4" />
-<img src="https://progress-bar.dev/75/?title=SQL&width=300&color=45B7D1" />
-<img src="https://progress-bar.dev/70/?title=Visualization&width=300&color=96CEB4" />
+![Python](https://img.shields.io/badge/Python-90%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Data Science](https://img.shields.io/badge/Data%20Science-85%25-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-80%25-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-75%25-45B7D1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-70%25-96CEB4?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
