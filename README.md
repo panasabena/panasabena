@@ -345,9 +345,46 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 <div align="center">
 
-### 👀 **Visitas al Perfil**
+## 📊 **Dashboard Interactivo**
 
-<img src="https://komarev.com/ghpvc/?username=panasabena&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+### 🎯 **Métricas en Tiempo Real**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 📈 **Actividad de Contribuciones**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=panasabena&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20Actividad%20en%20GitHub" alt="GitHub Activity Graph" />
+
+</div>
+
+<div align="center">
+
+### 🏆 **Logros y Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=panasabena&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -361,13 +398,103 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 <div align="center">
 
-### 📱 **Conecta Conmigo**
+### 📊 **Dashboard de Habilidades**
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,tensorflow,pytorch,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
 
 </div>
+
+<div align="center">
+
+### 🎯 **Progreso de Aprendizaje**
+
+<img src="https://progress-bar.dev/90/?title=Python&width=300&color=00D4FF" />
+<img src="https://progress-bar.dev/85/?title=Data+Science&width=300&color=FF6B6B" />
+<img src="https://progress-bar.dev/80/?title=Machine+Learning&width=300&color=4ECDC4" />
+<img src="https://progress-bar.dev/75/?title=SQL&width=300&color=45B7D1" />
+<img src="https://progress-bar.dev/70/?title=Visualization&width=300&color=96CEB4" />
+
+</div>
+
+<div align="center">
+
+### 🌟 **Estado Actual**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Analizando+datos+de+movilidad+urbana;Desarrollando+dashboards+interactivos;Estudiando+Machine+Learning+avanzado;Colaborando+en+proyectos+de+IA;Creando+visualizaciones+impactantes" alt="Current Status" />
+
+</div>
+
+<div align="center">
+
+### 📊 **Métricas Avanzadas**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panasabena&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+<div align="center">
+
+### 🎯 **Dashboard de Proyectos**
+
+<table>
+<tr>
+<td width="33%">
+
+**📈 Data Analytics**
+- Challenge Strata
+- Análisis empresarial
+- Insights accionables
+
+</td>
+<td width="33%">
+
+**🚴‍♂️ Movilidad Urbana**
+- Exploración de datos
+- Análisis de bicicletas
+- Visualizaciones
+
+</td>
+<td width="33%">
+
+**🧠 NLP & ML**
+- Análisis de sentimientos
+- Predicción de precios
+- Modelos predictivos
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🌟 **Tecnologías Favoritas**
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+### 🎮 **GitHub Snake Game**
+
+<img src="https://raw.githubusercontent.com/panasabena/panasabena/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+
+</div>
+
+<div align="center">
+
+### 👀 **Visitas al Perfil**
+
+<img src="https://komarev.com/ghpvc/?username=panasabena&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+
 
 <div align="center">
 
