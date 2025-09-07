@@ -336,11 +336,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 <div align="center">
 
-## 📊 **Dashboard Interactivo**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
 
 <div align="center">
 
@@ -371,21 +366,6 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 </div>
 
-<div align="center">
-
-### 🏆 **Logros y Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=panasabena&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-### 🎮 **GitHub Snake Game**
-
-<img src="https://raw.githubusercontent.com/panasabena/panasabena/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-
-</div>
 
 <div align="center">
 
