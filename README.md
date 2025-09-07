@@ -155,6 +155,36 @@
 
 </div>
 
+<div align="center">
+
+### 🎯 **Mis Habilidades en Datos**
+
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly" />
+
+<img src="https://skillicons.dev/icons?i=scikit-learn,tensorflow,pytorch,jupyter" />
+
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,streamlit,docker,aws" />
+
+</div>
+
+<div align="center">
+
+### 📈 **Estadísticas de Código**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panasabena&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+<div align="center">
+
+### 🏆 **Logros de GitHub**
+
+<img src="https://github-profile-trophy.vercel.app/?username=panasabena&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+
+</div>
+
 ---
 
 <div align="center">
@@ -168,6 +198,29 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+</div>
+
+<div align="center">
+
+### 🎨 **Tecnologías que Uso Diariamente**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+### 📊 **Mi Progreso de Aprendizaje**
+
+<img src="https://progress-bar.dev/85/?title=Python" />
+<img src="https://progress-bar.dev/80/?title=Data+Science" />
+<img src="https://progress-bar.dev/75/?title=Machine+Learning" />
+<img src="https://progress-bar.dev/70/?title=SQL" />
+<img src="https://progress-bar.dev/65/?title=Visualization" />
 
 </div>
 
@@ -223,7 +276,7 @@
 
 <div align="center">
 
-## 🌐 Contacto y Conectemos
+## 🌐 Contacto
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -257,8 +310,27 @@
 
 <div align="center">
 
+### 🎯 **Mi Estado Actual**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analizando+datos+de+movilidad+urbana;Desarrollando+dashboards+interactivos;Estudiando+Machine+Learning+avanzado;Colaborando+en+proyectos+de+IA" alt="Current Status" />
+
+</div>
+
+<div align="center">
+
+### 🌟 **Mis Intereses**
+
+<img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Sports%20Analytics-45B7D1?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Visualization-96CEB4?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+<div align="center">
+
 ### 🎯 **Dato Curioso:** 
-Cuando no estoy analizando datasets, probablemente esté analizando estadísticas deportivas. ⚽📊
+Cuando no estoy analizando datasets, probablemente esté analizando estadísticas deportivas o en el gimnasio. ⚽📊
 
 ### 💡 **Frase Favorita:**
 *"Los datos no mienten, pero hay que saber preguntarles las preguntas correctas."* 
@@ -273,7 +345,27 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 <div align="center">
 
+### 👀 **Visitas al Perfil**
+
 <img src="https://komarev.com/ghpvc/?username=panasabena&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+### 🎮 **GitHub Snake Game**
+
+<img src="https://raw.githubusercontent.com/panasabena/panasabena/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+
+</div>
+
+<div align="center">
+
+### 📱 **Conecta Conmigo**
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
