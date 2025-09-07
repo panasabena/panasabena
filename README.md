@@ -236,7 +236,7 @@
 
 <div align="center">
 
-### 🏠 [Proyecto_Properatti](https://github.com/panasabena/Proyecto_Properatti)
+### ✈️ [ID90 - Challenge](https://github.com/panasabena/ID90-Challenge)
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
