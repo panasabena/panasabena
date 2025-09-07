@@ -20,7 +20,9 @@ Transformo datos en insights accionables. Apasionado por el análisis lógico-de
 
 ## Acerca de mí 👨‍💻
 
-Soy un Data Scientist con experiencia en el desarrollo de dashboards y soluciones analíticas. Mi expertise se centra en el análisis de datos, visualización y creación de herramientas que faciliten la toma de decisiones basadas en datos. Como Bachiller orientado en Ciencias Aplicadas de la UNC y estudiante avanzado de Ingeniería Industrial, combino rigor académico con pasión por la tecnología. Fuera del código, soy un gran entusiasta de los deportes, lo que alimenta mi interés por analizar el rendimiento y la estadística bajo una lógica precisa.
+Soy un Data Scientist con experiencia en el desarrollo de dashboards y soluciones analíticas. Mi expertise se centra en el análisis de datos, visualización y creación de herramientas que faciliten la toma de decisiones basadas en datos. Como Bachiller orientado en Ciencias Aplicadas de la UNC y estudiante avanzado de Ingeniería Industrial, combino rigor académico con pasión por la tecnología. 
+
+I am passionate about science and technology, and I enjoy learning new things. I love sports as they provide me with a sense of grounding. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
 
 ---
 
