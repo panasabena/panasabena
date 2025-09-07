@@ -173,7 +173,7 @@
 
 ### 📈 **Estadísticas de Código**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panasabena&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20Código" alt="GitHub Stats" />
 
 </div>
 
@@ -359,12 +359,12 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20GitHub" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes%20Principales" alt="Top Languages" />
 
 </td>
 </tr>
@@ -428,7 +428,7 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 
 ### 📊 **Métricas Avanzadas**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panasabena&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Métricas%20Avanzadas" alt="Advanced Stats" />
 
 </div>
 
@@ -464,6 +464,22 @@ Cuando no estoy analizando datasets, probablemente esté analizando estadística
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+### 📊 **Resumen de Actividad**
+
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Resumen%20de%20Actividad" alt="Activity Summary" />
+
+</div>
+
+<div align="center">
+
+### 🎨 **Tecnologías en Uso**
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
 
 </div>
 
