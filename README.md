@@ -84,55 +84,6 @@ High-agency technical operator with a builder mindset. I work directly with the 
 
 ---
 
-### ◆ Proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Google Maps Scraper](https://github.com/panasabena/Google_Maps_Scraper)**<br>
-<sub>Extracción automatizada de datos de negocios desde Google Maps · `Python`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Zillow Scraper](https://github.com/panasabena/ZillowScraper)**<br>
-<sub>Scraper de datos de agentes inmobiliarios de Zillow · `HTML`</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Properatti](https://github.com/panasabena/Proyecto_Properatti)**<br>
-<sub>Análisis y predicción de precios de propiedades en Buenos Aires · `Jupyter`</sub>
-
-</td>
-<td valign="top">
-
-**[Dashboard Plotly](https://github.com/panasabena/Dashboard_Plotly)**<br>
-<sub>Dashboard interactivo construido con Plotly · `HTML`</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[NLP de reseñas](https://github.com/panasabena/Procesamiento_de_lenguaje_Natural)**<br>
-<sub>Predicción de sentimiento sobre reseñas de Amazon · `Jupyter`</sub>
-
-</td>
-<td valign="top">
-
-**[Sentimiento en Twitter](https://github.com/panasabena/Analisis_exploratorio_de_tweepy)**<br>
-<sub>Análisis exploratorio y de sentimiento de tweets · `Jupyter`</sub>
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&hide_border=true&bg_color=0b1020&title_color=20d4ff&icon_color=2a7bff&text_color=d7e3fd&border_radius=14" height="165" alt="GitHub Stats" />
