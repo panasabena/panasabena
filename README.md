@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20d4ff,50:2a7bff,100:a34dff&text=Francisco%20Alfredo%20Sabena&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Technical%20Operations%20%C2%B7%20AI%20Engineering%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Francisco Alfredo Sabena" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20d4ff,50:2a7bff,100:a34dff&text=Francisco%20Alfredo%20Sabena&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Industrial%20Engineering%20%7C%20AI%20Automation%20Engineer%20%7C%20AI%20Solution%20Architect%20%7C%20Forward%20Deployed%20Engineer&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Francisco Alfredo Sabena" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=900&color=20D4FF&center=true&vCenter=true&width=760&lines=Technical+Operations+Partner+to+the+CTO;I+ship+production+AI+agents;Voice+%C2%B7+WhatsApp+%C2%B7+Email+%E2%80%94+sub-600+ms+latency;8%2B+years+in+data+%26+BI" alt="Typing SVG" />
 
