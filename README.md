@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20d4ff,50:2a7bff,100:a34dff&text=Francisco%20Alfredo%20Sabena&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Technical%20Operations%20%C2%B7%20AI%20Engineering%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Francisco Alfredo Sabena" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=900&color=20D4FF&center=true&vCenter=true&width=760&lines=Technical+Operations+Partner+to+the+CTO;Construyo+agentes+de+IA+en+producci%C3%B3n;Voz+%C2%B7+WhatsApp+%C2%B7+Email+%E2%80%94+latencia+%3C600+ms;%2B8+a%C3%B1os+en+datos+y+BI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=900&color=20D4FF&center=true&vCenter=true&width=760&lines=Technical+Operations+Partner+to+the+CTO;I+ship+production+AI+agents;Voice+%C2%B7+WhatsApp+%C2%B7+Email+%E2%80%94+sub-600+ms+latency;8%2B+years+in+data+%26+BI" alt="Typing SVG" />
 
-<a href="https://panasabena.github.io"><img src="https://img.shields.io/badge/Sitio_personal-panasabena.github.io-0b1020?style=for-the-badge&labelColor=2a7bff&logo=googlechrome&logoColor=white" alt="Sitio personal" /></a>
+<a href="https://panasabena.github.io"><img src="https://img.shields.io/badge/Website-panasabena.github.io-0b1020?style=for-the-badge&labelColor=2a7bff&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/francisco-alfredo-sabena/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=20d4ff" alt="LinkedIn" /></a>
 <a href="mailto:alfre_sabena@hotmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=maildotru&logoColor=20d4ff" alt="Email" /></a>
 
@@ -12,40 +12,32 @@
 
 ---
 
-### ◆ Sobre mí
+### ◆ About me
 
-Operador técnico con perfil **builder**. Hoy trabajo directamente con el CTO de **Taller Technologies** como *Technical Operations Partner*: convierto pedidos dispersos en resultados concretos — sandboxes y demos a medida, implementaciones rápidas de IA, arranque de proyectos con clientes y compliance (SOC 2 / Vanta).
+High-agency technical operator with a **builder** mindset. I work directly with the CTO of **Taller Technologies** as *Technical Operations Partner*, turning scattered requests into completed outcomes: tailored sandboxes and demos, fast AI implementations, customer project launches and compliance (SOC 2 / Vanta).
 
-Vengo de **+8 años en analítica de datos y BI** (MicroStrategy, Power BI, SQL, Python) y construyo sistemas de **IA conversacional en producción**: desarrollé en solitario un CRM cloud-native multi-tenant con agentes de voz.
+I bring **8+ years in data analytics and BI** (MicroStrategy, Power BI, SQL, Python) and ship **production conversational AI**: I single-handedly built a multi-tenant cloud-native CRM with AI voice agents.
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>+8</h3><sub>años en datos, BI y tecnología</sub></td>
-<td align="center" width="25%"><h3>&lt;600 ms</h3><sub>latencia en agentes de voz</sub></td>
-<td align="center" width="25%"><h3>20+</h3><sub>funcionalidades entregadas en solitario</sub></td>
-<td align="center" width="25%"><h3>UNC</h3><sub>Ingeniería Industrial</sub></td>
+<td align="center" width="25%"><h3>8+</h3><sub>years in data, BI and tech</sub></td>
+<td align="center" width="25%"><h3>&lt;600 ms</h3><sub>latency on AI voice agents</sub></td>
+<td align="center" width="25%"><h3>20+</h3><sub>features shipped solo</sub></td>
+<td align="center" width="25%"><h3>UNC</h3><sub>Industrial Engineering</sub></td>
 </tr>
 </table>
 
-<details>
-<summary><b>🇬🇧 English</b></summary>
-<br>
-
-High-agency technical operator with a builder mindset. I work directly with the CTO of **Taller Technologies** as *Technical Operations Partner*, turning scattered requests into completed outcomes: tailored sandboxes and demos, fast AI implementations, customer project launches and compliance (SOC 2 / Vanta). I bring **8+ years in data analytics and BI** and ship **production conversational AI** — I single-handedly built a multi-tenant cloud-native CRM with AI voice agents (sub-600 ms latency).
-
-</details>
-
 ---
 
-### ◆ Experiencia
+### ◆ Experience
 
-| | Rol | Dónde |
+| | Role | Where |
 |---|---|---|
-| `2026 — hoy` | **Technical Operations Partner to the CTO** | Taller Technologies |
-| `2026 — hoy` | **Fundador y desarrollador** · proyecto propio | Real Automations — CRM SaaS con IA conversacional |
-| `2023 — 2026` | **Analista de Datos** | Taller Technologies |
+| `2026 — now` | **Technical Operations Partner to the CTO** | Taller Technologies |
+| `2026 — now` | **Founder & Developer** · side project | Real Automations — conversational AI CRM SaaS |
+| `2023 — 2026` | **Data Analyst** | Taller Technologies |
 | `2021 — 2023` | **BI Consultant** | MicroStrategy |
-| `2018 — 2021` | **Planificación y Control de Producción** | FAESA |
+| `2018 — 2021` | **Production Planning & Control** | FAESA |
 
 ---
 
@@ -91,7 +83,7 @@ High-agency technical operator with a builder mindset. I work directly with the 
 
 <br><br>
 
-<b>Construyamos algo que mueva la aguja.</b>
+<b>Let's build something that moves the needle.</b>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:a34dff,50:2a7bff,100:20d4ff" width="100%" alt="" />
 
