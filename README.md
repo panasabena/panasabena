@@ -1,401 +1,147 @@
 <div align="center">
 
-# 🚀 ¡Hola! Soy Alfredo Sabena 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20d4ff,50:2a7bff,100:a34dff&text=Francisco%20Alfredo%20Sabena&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Technical%20Operations%20%C2%B7%20AI%20Engineering%20%C2%B7%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Francisco Alfredo Sabena" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Dashboard+Developer;Industrial+Engineering+%7C+IA;Transformo+datos+en+insights+accionables" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=900&color=20D4FF&center=true&vCenter=true&width=760&lines=Technical+Operations+Partner+to+the+CTO;Construyo+agentes+de+IA+en+producci%C3%B3n;Voz+%C2%B7+WhatsApp+%C2%B7+Email+%E2%80%94+latencia+%3C600+ms;%2B8+a%C3%B1os+en+datos+y+BI" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-[![GitHub](https://img.shields.io/badge/GitHub-panasabena-181717?style=flat&logo=github&logoColor=white)](https://github.com/panasabena)
-
----
-
-<div align="center">
-
-## 🎯 Acerca de mí 👨‍💻
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
-
-</div>
-
-<div align="justify">
-
-🔬 **Soy un Data Scientist** con experiencia en el desarrollo de dashboards y soluciones analíticas. Mi expertise se centra en el análisis de datos, visualización y creación de herramientas que faciliten la toma de decisiones basadas en datos.
-
-🎓 **Como Bachiller orientado en Ciencias Aplicadas de la UNC** y estudiante avanzado de Ingeniería Industrial, combino rigor académico con pasión por la tecnología.
-
-🌍 **Soy aun apasionado por la ciencia y la tecnología**, disfruto aprender cosas nuevas. Amo los deportes, son mi cable a tierra. 🏋🏻🏋🏻🚴🏽🏊🏼🏉🏃🏻🎾
+<a href="https://panasabena.github.io"><img src="https://img.shields.io/badge/Sitio_personal-panasabena.github.io-0b1020?style=for-the-badge&labelColor=2a7bff&logo=googlechrome&logoColor=white" alt="Sitio personal" /></a>
+<a href="https://www.linkedin.com/in/francisco-alfredo-sabena/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=20d4ff" alt="LinkedIn" /></a>
+<a href="mailto:alfre_sabena@hotmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=maildotru&logoColor=20d4ff" alt="Email" /></a>
 
 </div>
 
 ---
 
-<div align="center">
+### ◆ Sobre mí
 
-## 🛠️ Stack Tecnológico
+Operador técnico con perfil **builder**. Hoy trabajo directamente con el CTO de **Taller Technologies** como *Technical Operations Partner*: convierto pedidos dispersos en resultados concretos — sandboxes y demos a medida, implementaciones rápidas de IA, arranque de proyectos con clientes y compliance (SOC 2 / Vanta).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-### 💻 Lenguajes & Programación
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 🤖 Ciencia de Datos & ML
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 🗄️ Bases de Datos & Big Data
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 📊 Visualización & BI
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 🚀 Herramientas & Plataformas
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Estadísticas de GitHub
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=panasabena&theme=tokyonight&border_radius=20&border_color=252030&background=DEG,1b1526,0a090d&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=panasabena&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
-<div align="center">
-
-### 📊 **Habilidades**
-
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,pandas,numpy,matplotlib,seaborn,plotly,scikit-learn,tensorflow,pytorch,jupyter,powerbi,tableau,streamlit,docker,aws,azure,git,vscode" />
-
-</div>
-
-<div align="center">
-
-### 📈 **Estadísticas de Código**
-
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20Código" alt="GitHub Stats" />
-
-</div>
-
-
-<div align="center">
-
-## 🚀 Proyectos Destacados
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-</div>
-
-<div align="center">
-
-### 🎨 **Tecnologías que Uso Diariamente**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-</div>
-
-
-<div align="center">
-
-### 📈 [ChallengeDataAnalytics](https://github.com/panasabena/ChallengeDataAnalytics)
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-**Challenge de Data Analytics para Strata** - Análisis completo de datos con enfoque en insights empresariales.
-
-</div>
-
-<div align="center">
-
-### 🚴‍♂️ [DataExploring](https://github.com/panasabena/DataExploring)
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-
-**Explorando base de datos de recorridos de bicicletas** - Análisis exploratorio de datos de movilidad urbana.
-
-</div>
-
-
-<div align="center">
-
-### 🧠 [Dashboard en Plotly](https://github.com/panasabena/Dashboard_Plotly)
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-
-**Análisis de sentimientos en comentarios y compras de Amazon** - Proyecto de NLP para predicción de sentimientos.
-
-</div>
-
-<div align="center">
-
-### ✈️ [ID90 - Challenge](https://github.com/panasabena/ID90-Challenge)
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-4ECDC4?style=for-the-badge&logo=python&logoColor=white" />
-
-**Análisis y predicción de precios de casas de la provincia de Buenos Aires** - Modelo predictivo para el mercado inmobiliario.
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Contacto
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡No dudes en contactarme para colaborar en proyectos de datos!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/francisco-alfredo-sabena/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:panasabena@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/panasabena">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-
-<div align="center">
-
-### 🎯 **Mi Estado Actual**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analizando+datos+de+movilidad+urbana;Desarrollando+dashboards+interactivos;Estudiando+Machine+Learning+avanzado;Colaborando+en+proyectos+de+IA" alt="Current Status" />
-
-</div>
-
-<div align="center">
-
-### 🌟 **Mis Intereses**
-
-<img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Sports%20Analytics-45B7D1?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Visualization-96CEB4?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
-<div align="center">
-
-### 🎯 **Dato Curioso:** 
-Cuando no estoy analizando datasets, probablemente esté analizando estadísticas deportivas o en el gimnasio. ⚽📊
-
-### 💡 **Frase Favorita:**
-*"Los datos no mienten, pero hay que saber preguntarles las preguntas correctas."* 
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-
-<div align="center">
-
-### 🎯 **Métricas en Tiempo Real**
+Vengo de **+8 años en analítica de datos y BI** (MicroStrategy, Power BI, SQL, Python) y construyo sistemas de **IA conversacional en producción**: desarrollé en solitario un CRM cloud-native multi-tenant con agentes de voz.
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%"><h3>+8</h3><sub>años en datos, BI y tecnología</sub></td>
+<td align="center" width="25%"><h3>&lt;600 ms</h3><sub>latencia en agentes de voz</sub></td>
+<td align="center" width="25%"><h3>20+</h3><sub>funcionalidades entregadas en solitario</sub></td>
+<td align="center" width="25%"><h3>UNC</h3><sub>Ingeniería Industrial</sub></td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20GitHub" alt="GitHub Stats" />
+<details>
+<summary><b>🇬🇧 English</b></summary>
+<br>
+
+High-agency technical operator with a builder mindset. I work directly with the CTO of **Taller Technologies** as *Technical Operations Partner*, turning scattered requests into completed outcomes: tailored sandboxes and demos, fast AI implementations, customer project launches and compliance (SOC 2 / Vanta). I bring **8+ years in data analytics and BI** and ship **production conversational AI** — I single-handedly built a multi-tenant cloud-native CRM with AI voice agents (sub-600 ms latency).
+
+</details>
+
+---
+
+### ◆ Experiencia
+
+| | Rol | Dónde |
+|---|---|---|
+| `2026 — hoy` | **Technical Operations Partner to the CTO** | Taller Technologies |
+| `2026 — hoy` | **Fundador y desarrollador** · proyecto propio | Real Automations — CRM SaaS con IA conversacional |
+| `2023 — 2026` | **Analista de Datos** | Taller Technologies |
+| `2021 — 2023` | **BI Consultant** | MicroStrategy |
+| `2018 — 2021` | **Planificación y Control de Producción** | FAESA |
+
+---
+
+### ◆ Stack
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-0b1020?style=for-the-badge&logo=anthropic&logoColor=20d4ff)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0b1020?style=for-the-badge&logo=openai&logoColor=20d4ff)
+![Cursor](https://img.shields.io/badge/Cursor-0b1020?style=for-the-badge&logo=cursor&logoColor=20d4ff)
+![Twilio](https://img.shields.io/badge/Twilio-0b1020?style=for-the-badge&logo=twilio&logoColor=20d4ff)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-0b1020?style=for-the-badge&logo=whatsapp&logoColor=20d4ff)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0b1020?style=for-the-badge&logo=elevenlabs&logoColor=20d4ff)
+<br>
+![Python](https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=2a7bff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1020?style=for-the-badge&logo=fastapi&logoColor=2a7bff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1020?style=for-the-badge&logo=postgresql&logoColor=2a7bff)
+![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=2a7bff)
+![AWS](https://img.shields.io/badge/AWS-0b1020?style=for-the-badge&logo=amazonwebservices&logoColor=2a7bff)
+![Azure](https://img.shields.io/badge/Azure-0b1020?style=for-the-badge&logo=microsoftazure&logoColor=2a7bff)
+![Supabase](https://img.shields.io/badge/Supabase-0b1020?style=for-the-badge&logo=supabase&logoColor=2a7bff)
+<br>
+![SQL](https://img.shields.io/badge/SQL-0b1020?style=for-the-badge&logo=mysql&logoColor=a34dff)
+![Snowflake](https://img.shields.io/badge/Snowflake-0b1020?style=for-the-badge&logo=snowflake&logoColor=a34dff)
+![Power BI](https://img.shields.io/badge/Power_BI-0b1020?style=for-the-badge&logo=powerbi&logoColor=a34dff)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-0b1020?style=for-the-badge&logo=microstrategy&logoColor=a34dff)
+![Pandas](https://img.shields.io/badge/Pandas-0b1020?style=for-the-badge&logo=pandas&logoColor=a34dff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1020?style=for-the-badge&logo=scikitlearn&logoColor=a34dff)
+<br>
+![Jira](https://img.shields.io/badge/Jira-0b1020?style=for-the-badge&logo=jira&logoColor=9fb0d9)
+![Salesforce](https://img.shields.io/badge/Salesforce-0b1020?style=for-the-badge&logo=salesforce&logoColor=9fb0d9)
+![Slack](https://img.shields.io/badge/Slack-0b1020?style=for-the-badge&logo=slack&logoColor=9fb0d9)
+![SOC 2](https://img.shields.io/badge/SOC_2_·_Vanta-0b1020?style=for-the-badge&logo=letsencrypt&logoColor=9fb0d9)
+
+</div>
+
+---
+
+### ◆ Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Google Maps Scraper](https://github.com/panasabena/Google_Maps_Scraper)**<br>
+<sub>Extracción automatizada de datos de negocios desde Google Maps · `Python`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes%20Principales" alt="Top Languages" />
+**[Zillow Scraper](https://github.com/panasabena/ZillowScraper)**<br>
+<sub>Scraper de datos de agentes inmobiliarios de Zillow · `HTML`</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[Properatti](https://github.com/panasabena/Proyecto_Properatti)**<br>
+<sub>Análisis y predicción de precios de propiedades en Buenos Aires · `Jupyter`</sub>
+
+</td>
+<td valign="top">
+
+**[Dashboard Plotly](https://github.com/panasabena/Dashboard_Plotly)**<br>
+<sub>Dashboard interactivo construido con Plotly · `HTML`</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[NLP de reseñas](https://github.com/panasabena/Procesamiento_de_lenguaje_Natural)**<br>
+<sub>Predicción de sentimiento sobre reseñas de Amazon · `Jupyter`</sub>
+
+</td>
+<td valign="top">
+
+**[Sentimiento en Twitter](https://github.com/panasabena/Analisis_exploratorio_de_tweepy)**<br>
+<sub>Análisis exploratorio y de sentimiento de tweets · `Jupyter`</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-
+---
 
 <div align="center">
 
-### 🌟 **Estado Actual**
+<img src="https://github-readme-stats.vercel.app/api?username=panasabena&show_icons=true&hide_border=true&bg_color=0b1020&title_color=20d4ff&icon_color=2a7bff&text_color=d7e3fd&border_radius=14" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panasabena&layout=compact&hide_border=true&bg_color=0b1020&title_color=20d4ff&text_color=d7e3fd&border_radius=14" height="165" alt="Top Languages" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Analizando+datos+de+movilidad+urbana;Desarrollando+dashboards+interactivos;Estudiando+Machine+Learning+avanzado;Colaborando+en+proyectos+de+IA;Creando+visualizaciones+impactantes" alt="Current Status" />
+<br><br>
 
-</div>
+<b>Construyamos algo que mueva la aguja.</b>
 
-
-<div align="center">
-
-### 🎯 **Dashboard de Proyectos**
-
-<table>
-<tr>
-<td width="33%">
-
-**📈 Data Analytics**
-- Challenge Strata
-- Análisis empresarial
-- Insights accionables
-
-</td>
-<td width="33%">
-
-**🚴‍♂️ Movilidad Urbana**
-- Exploración de datos
-- Análisis de bicicletas
-- Visualizaciones
-
-</td>
-<td width="33%">
-
-**🧠 NLP & ML**
-- Análisis de sentimientos
-- Predicción de precios
-- Modelos predictivos
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-<div align="center">
-
-### 👀 **Visitas al Perfil**
-
-<img src="https://komarev.com/ghpvc/?username=panasabena&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:a34dff,50:2a7bff,100:20d4ff" width="100%" alt="" />
 
 </div>
